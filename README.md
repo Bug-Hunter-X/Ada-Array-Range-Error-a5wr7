@@ -1,0 +1,1 @@
+This repository contains an example of a common error in Ada programming related to array ranges. The `bug.ada` file shows the incorrect code, while `bugSolution.ada` provides the corrected version.  The error is subtle and can lead to unexpected results.  The example uses a simple array to illustrate the issue, which is easily replicated in more complex scenarios. 
